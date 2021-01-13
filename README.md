@@ -1,7 +1,7 @@
 # Blink-Arduino
 simplest thing you can do with an Arduino: it blinks the on-board LED
 
-```C
+```C++
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
